@@ -1,2 +1,1 @@
-# MyFirstRepo
-Learning Repo
+# 0~0
